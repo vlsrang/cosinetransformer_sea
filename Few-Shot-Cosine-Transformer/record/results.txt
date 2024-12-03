@@ -1,0 +1,7 @@
+Time: 20241125@163215   Setting: miniImagenet-ResNet34-FSCT_cosine-aug-5w5s         Test Acc = 82.57% +- 0.50% 
+Time: 20241125@171050   Setting: miniImagenet-ResNet34-FSCT_cosine-5w5s             Test Acc = 81.11% +- 0.51% 
+Time: 20241126@021105   Setting: miniImagenet-ResNet34-FSCT_cosine-aug-5w5s         Test Acc = 82.57% +- 0.50% 
+Time: 20241126@024946   Setting: miniImagenet-ResNet34-FSCT_cosine-aug-5w5s         Test Acc = 83.33% +- 0.52% 
+Time: 20241126@042511   Setting: CUB-ResNet18-FSCT_cosine-aug-5w5s                  Test Acc = 91.76% +- 0.43% 
+Time: 20241126@045629   Setting: CUB-ResNet18-FSCT_cosine-aug-5w5s                  Test Acc = 91.97% +- 0.41% 
+Time: 20241202@171346   Setting: Sea-ResNet18-FSCT_cosine-aug-5w5s                  Test Acc = 66.46% +- 1.02% 
